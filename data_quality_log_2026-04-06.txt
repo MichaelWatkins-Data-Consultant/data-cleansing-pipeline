@@ -1,0 +1,15 @@
+============================================================
+  DATA QUALITY REPORT — Generated 2026-04-06
+============================================================
+
+Records before cleansing: 10044
+Records after cleansing:  9964
+Records removed:          80
+
+ISSUES FOUND & FIXED
+------------------------------------------------------------
+• Duplicates removed: 50
+• Missing values fixed: 150
+• Text columns standardized: 8
+• Date columns converted to standard format
+• Negative sales records removed: 30
